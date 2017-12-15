@@ -10,5 +10,9 @@ package proyecto1;
  * @author Rocael
  */
 public class Ejemplo {
+    int a;
+    public void metodo1(){
+        
+    }
     
 }
